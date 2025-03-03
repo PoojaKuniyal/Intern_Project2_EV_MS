@@ -1,1 +1,2 @@
-# Intern_Project2_EV_MS
+# Electric Vehicle Market Segmentation Analysis (India)
+Applied clustering algorithms (unsupervised learning: KMeans, Hierarchical) to identify potential market segments. Analyzed the most promising EV vehicle categories over the years. Clustered the four-wheeler vehicle category to determine the optimal segment. Examined the demographic, behavioral, and geographic characteristics of people. Utilized Matplotlib, Seaborn, and Plotly for visualizing the market segments.
